@@ -1,0 +1,56 @@
+.mainBlog{
+    overflow: hidden;
+}
+.img-fluid{
+    width: 100%;
+    height: 753px !important;
+    position: fixed;
+    /* -webkit-filter: invert(100%); */
+    /* -webkit-filter: sepia(100%); */
+}
+.head{
+    border: 3px solid white;
+    position: relative;
+    left: 35%;
+    width: 30%;
+    margin-top: 230px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-style: italic;
+}
+.field{
+    padding-left: 89px;
+}
+.btn{
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    margin-left: 40%;
+    margin-top: 20px;
+}
+.next{
+    margin-left: 100px;
+}
+input{
+    width: 50px;
+}
+.danger{
+    color: red;
+}
+
+/* input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+   -webkit-appearance: none;
+   margin: 0;
+}
+input[type="number"] {
+   -moz-appearance: textfield;
+} */
